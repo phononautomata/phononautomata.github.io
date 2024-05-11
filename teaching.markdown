@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & tutoring
 permalink: /teaching/
 ---
-
-### Teaching Experience
 
 #### Academic Year 2022-2023
 - **Co-advisor**
