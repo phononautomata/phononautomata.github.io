@@ -11,7 +11,7 @@ permalink: /talks/
 - **Talk's Title:** Epidemic spreading under exploration & preferential return mobility  
 - **Authors:** A. de Miguel Arribas, A. Aleta, Y. Moreno, E. Moro  
 
-### Statphy 28, 28th International Conference on Statistical Physics
+### Statphys 28, 28th International Conference on Statistical Physics
 **Event Date:** August 7 - August 11, 2023  
 **Location:** Tokyo, Japan  
 **Venue:** Hongo Campus, University of Tokyo  
