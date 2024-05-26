@@ -11,7 +11,7 @@ permalink: /teaching/
   - **Institution:** Faculty of Science, University of Zaragoza
   - **Period:** Full course  
   - **Student:** Marco Fernández da Silva
-  - **Dissertation Title:** "Control de epidemias en metapoblaciones heterogéneas" (Mark: 9.7/10)
+  - **Dissertation Title:** ["Control de epidemias en metapoblaciones heterogéneas"](https://zaguan.unizar.es/record/127223/files/TAZ-TFG-2023-2786.pdf) (Mark: 9.7/10)
 
 - **Computer Lab Assistant**
   - **Course:** Física Computacional (Computational Physics)
@@ -34,7 +34,7 @@ permalink: /teaching/
   - **Institution:** Faculty of Science, University of Zaragoza
   - **Period:** 1 semester (January-June 2022)
   - **Student:** Alfonso Yubero Navarro
-  - **Dissertation Title:** "Modelización de la propagación de epidemias e incertidumbre ante la vacunación" (Mark: 9/10)
+  - **Dissertation Title:** ["Modelización de la propagación de epidemias e incertidumbre ante la vacunación"](https://zaguan.unizar.es/record/125200/files/TAZ-TFG-2022-2894.pdf) (Mark: 9/10)
 
 - **Computer Lab Assistant**
   - **Course:** Física Computacional (Computational Physics)
@@ -50,7 +50,7 @@ permalink: /teaching/
   - **Institution:** Faculty of Science, University of Zaragoza
   - **Period:** 1 semester (January-June 2021)
   - **Student:** Alicia Lou Gracia
-  - **Dissertation Title:** "Modelización de la propagación de epidemias en poblaciones estructuradas" (Mark: 9/10)
+  - **Dissertation Title:** ["Modelización de la propagación de epidemias en poblaciones estructuradas"](https://zaguan.unizar.es/record/110342/files/TAZ-TFG-2021-2997.pdf) (Mark: 9/10)
 
 - **Co-tutor**
   - **Activity:** Physics degree academic internship

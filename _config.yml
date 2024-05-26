@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alfonso de Miguel Arribas
+#title: Alfonso de Miguel Arribas
 email: alfonso.demiguel.arribas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal page where I share my research work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_scholar_username: ZcAGvmwAAAAJ
 twitter_username: void_strukt
 github_username:  phononautomata
+
 
 # Build settings
 theme: minima
@@ -33,10 +35,6 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - title: "About"
-    url: "/about/"
-  - title: "Research"
-    url: "/research/"
   - title: "Publications"
     url: "/publications/"
   - title: "Talks"
